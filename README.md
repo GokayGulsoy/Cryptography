@@ -24,10 +24,15 @@ You can get more information related to course by visiting [CENG471](https://cen
 14. MAC, Secure Channel and Overview of Homomorphic encryption
 
 <details>
+  
   <summary>Click here to see course textbooks</summary>
+  
   ## Some Useful Textbooks for Cryptography
   
   [Cryptography and Network Security by William Stallings](Textbooks/TEXTBOOK.pdf).
+  
   [Cryptography Engineering](Textbooks/cryptography_engineering_design_principles_and_practical_applications.pdf).
+  
   [Elliptic Curve Cryptography](Textbooks/Guide_Elliptic_Curve_Cryptography.pdf).
+  
 </details>  
